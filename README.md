@@ -9,7 +9,7 @@ Specification of terms for Bitcoin.
 - LaaS  (Lightning Network a a Service)
 
 ### Finance
-- BitFi/BiFi (Bitcoin Finance
+- BitFi/BiFi (Bitcoin Finance)
 
 ### Education
 - BitEdu (Bitcoin education)
