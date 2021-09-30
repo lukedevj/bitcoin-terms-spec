@@ -13,3 +13,8 @@ Specification of terms for Bitcoin.
 
 ### Education
 - BitEdu (Bitcoin education)
+
+
+### Credits
+
+[Alan Schramm](https://twitter.com/alan_schramm)
